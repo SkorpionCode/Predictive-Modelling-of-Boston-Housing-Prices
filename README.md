@@ -11,4 +11,4 @@ understanding of the dataset.
 The model training phase involved a training linear regression model, whose performance was 
 assessed based on the MSE, RMSE and R-squared scores. Then we analyzed the performance 
 of our linear regression model by comparing it with other regressor models like the Decision 
-Tree Regressor and the Random Forest Regresso
+Tree Regressor and the Random Forest Regressor
